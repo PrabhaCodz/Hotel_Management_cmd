@@ -13,5 +13,8 @@ separate thread as it can be done parallely. User defined exception is thrown if
 tries to book an already allotted room. Exception handling is properly done to deal with any
 kind of unexpected exception.
 ##### Topics Covered-  
-Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
-Interface, User defined exception and Exception handling.
+-Classes and Objects 
+-Inheritance 
+-File Handling with Objects 
+-ArrayList
+-User defined exception and Exception handling.
